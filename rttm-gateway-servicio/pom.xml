@@ -8,11 +8,11 @@
         <version>3.4.4</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.hlca</groupId>
-    <artifactId>hlca-gateway-servicio</artifactId>
+    <groupId>com.rttm</groupId>
+    <artifactId>rttm-gateway-servicio</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>hlca-gateway-servicio</name>
-    <description>hlca-gateway-servicio</description>
+    <name>rttm-gateway-servicio</name>
+    <description>rttm-gateway-servicio</description>
     <url/>
     <licenses>
         <license/>

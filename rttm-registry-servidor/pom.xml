@@ -8,11 +8,11 @@
         <version>3.4.4</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.hlca</groupId>
-    <artifactId>hlca-registry-servidor</artifactId>
+    <groupId>com.rttm</groupId>
+    <artifactId>rttm-registry-servidor</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>hlca-registry-servidor</name>
-    <description>hlca-registry-servidor</description>
+    <name>rttm-registry-servidor</name>
+    <description>rttm-registry-servidor</description>
     <url/>
     <licenses>
         <license/>

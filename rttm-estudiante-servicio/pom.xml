@@ -8,11 +8,11 @@
         <version>3.4.4</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.hlca</groupId>
-    <artifactId>hlca-estudiante-servicio</artifactId>
+    <groupId>com.rttm</groupId>
+    <artifactId>rttm-estudiante-servicio</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>hlca-estudiante-servicio</name>
-    <description>hlca-estudiante-servicio</description>
+    <name>rttm-estudiante-servicio</name>
+    <description>rttm-estudiante-servicio</description>
     <url/>
     <licenses>
         <license/>

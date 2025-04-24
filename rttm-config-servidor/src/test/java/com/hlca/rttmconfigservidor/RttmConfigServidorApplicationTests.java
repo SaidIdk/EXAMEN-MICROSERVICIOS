@@ -1,10 +1,10 @@
-package com.hlca.hlcaconfigservidor;
+package com.hlca.rttmconfigservidor;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class HlcaConfigServidorApplicationTests {
+class RttmConfigServidorApplicationTests {
 
     @Test
     void contextLoads() {

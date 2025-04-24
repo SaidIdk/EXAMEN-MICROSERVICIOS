@@ -1,7 +1,0 @@
-spring:
-  application:
-    name: hlca-gateway-servicio
-  profiles:
-    active: development
-  config:
-    import: optional:configserver:http://howard:teamomama@localhost:7070

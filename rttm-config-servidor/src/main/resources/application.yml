@@ -8,10 +8,10 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/keinraf/KPS-MICROSERVICES.git
+          uri: https://github.com/SaidIdk/EXAMEN-MICROSERVICIOS.git
           searchPaths: config-data
-          default-label: PRINCIPALCITO
+          default-label: EXAMEN-MICROSERVICIOS
   security:
     user:
-      name: howard
-      password: teamomama
+      name: root
+      password: 123456

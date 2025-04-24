@@ -1,7 +1,7 @@
 spring:
   application:
-    name: hlca-gateway-servicio
+    name: rttm-gateway-servicio
   profiles:
     active: development
   config:
-    import: optional:configserver:http://howard:teamomama@localhost:7070
+    import: optional:configserver:http://root:123456@localhost:7070
