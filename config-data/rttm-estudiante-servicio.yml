@@ -2,10 +2,10 @@ server:
   port: 8081
 spring:
   application:
-    name: hlca-estudiante-servicio
+    name: rttm-estudiante-servicio
 
   datasource:
-    url: jdbc:h2:mem:hlca_estudiante
+    url: jdbc:h2:mem:rttm_estudiante
     driver-class-name: org.h2.Driver
     username: howard
     password: yo

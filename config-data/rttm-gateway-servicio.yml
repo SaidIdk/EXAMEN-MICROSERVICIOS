@@ -15,17 +15,17 @@ spring:
         locator:
           enable: true
       routes:
-        - id: hlca-estudiante-servicio
-          uri: lb://hlca-estudiante-servicio
+        - id: rttm-estudiante-servicio
+          uri: lb://rttm-estudiante-servicio
           predicates:
             - Path=/estudiantes/**
 
-        - id: hlca-matricula-servicio
-          uri: lb://hlca-matricula-servicio
+        - id: rttm-matricula-servicio
+          uri: lb://rttm-matricula-servicio
           predicates:
             - Path=/matriculas/**
 
-        - id: hlca-curso-servicio
-          uri: lb://hlca-curso-servicio
+        - id: rttm-curso-servicio
+          uri: lb://rttm-curso-servicio
           predicates:
             - Path=/cursos/**

@@ -1,10 +1,10 @@
-package com.hlca.hlcacursoservicio;
+package com.hlca.hlcaestudianteservicio;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class HlcaCursoServicioApplicationTests {
+class RttmEstudianteServicioApplicationTests {
 
     @Test
     void contextLoads() {

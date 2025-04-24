@@ -2,10 +2,10 @@ server:
   port: 8082
 spring:
   application:
-    name: hlca-curso-servicio
+    name: rttm-curso-servicio
 
   datasource:
-    url: jdbc:mysql://localhost:3306/hlca-curso
+    url: jdbc:mysql://localhost:3306/rttm-curso
     username: root
     password:
     driver-class-name: com.mysql.cj.jdbc.Driver

@@ -2,10 +2,10 @@ server:
   port: 8083
 spring:
   application:
-    name: hlca-matricula-servicio
+    name: rttm-matricula-servicio
 
   datasource:
-    url: jdbc:mysql://localhost:3306/hlca-matricula
+    url: jdbc:mysql://localhost:3306/rttm-matricula
     username: root
     password:
     driver-class-name: com.mysql.cj.jdbc.Driver
