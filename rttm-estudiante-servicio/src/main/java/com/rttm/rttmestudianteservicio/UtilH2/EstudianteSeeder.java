@@ -36,9 +36,9 @@ public class EstudianteSeeder implements CommandLineRunner {
 
 
 
-            System.out.println("Datos de HLCA Estudiante insertados correctamente.");
+            System.out.println("Datos de Estudiante insertados correctamente.");
         }else {
-            System.out.println("Los HLCA Estudiantes ya existen, no se insertaron datos.");
+            System.out.println("Los Estudiantes ya existen, no se insertaron datos.");
         }
     }
 }

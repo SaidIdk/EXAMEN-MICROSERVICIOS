@@ -1,6 +1,6 @@
 spring:
   application:
-    name: hlca-matricula-servicio
+    name: rttm-matricula-servicio
   profiles:
     active: development
   config:
