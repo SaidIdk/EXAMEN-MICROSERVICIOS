@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.rttm</groupId>
-    <artifactId>rttm-curso-servicio</artifactId>
+    <artifactId>mysql-connector-java</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>rttm-curso-servicio</name>
     <description>rttm-curso-servicio</description>
